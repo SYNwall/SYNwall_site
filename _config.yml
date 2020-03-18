@@ -1,0 +1,7 @@
+title: SYNwall
+description: A zero-configuration (IoT) firewall
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
+github:
+   repository_url: https://github.com/SYNwall/SYNwall
