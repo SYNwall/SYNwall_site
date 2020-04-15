@@ -9,7 +9,7 @@ layout: default
 
 # **SYNwall:** A different way to think firewalling
 
-**SYNwall** brings to you a total new way to approcach firewalling: you don't have to worry anymore about rules, IP, permissions and so on. 
+**SYNwall** brings to you a total new way to approcach firewalling: you don't have to worry anymore about rules, IP, ports... 
 
 * * *
 
