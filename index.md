@@ -9,7 +9,7 @@ layout: default
 
 # **SYNwall:** A different way to think firewalling
 
-**SYNwall** brings to you a total new way to approcach firewalling: you don't have to worry anymore about rules, IP, ports, etc.
+**SYNwall** brings to you a total new way to approach firewalling: you don't have to worry anymore about rules, IP, ports, etc.
 A simple PSK will allow a low-maintenance firewall-like security.
 Built with **IoT** in mind, it can be used also in different environments.
 
