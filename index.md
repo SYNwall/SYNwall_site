@@ -61,6 +61,7 @@ In the future we plan to move it to other platforms (ESP8266?) and hardware.
 # More Info
 
 *  [Main Github repository](https://github.com/SYNwall/SYNwall)
+*  [Github Wiki](https://github.com/SYNwall/SYNwall/wiki)
 *  [Ansible package](https://github.com/SYNwall/SYNwall_distrib)
 
 * * *
