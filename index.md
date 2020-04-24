@@ -35,7 +35,9 @@ If the receiving device can validate the token, the connection will be allowed, 
 
 Here a quick demo:
 
-<iframe width="640" height="480" src="/assets/videos/SYNwall_site_demo.webm" frameborder="0"> </iframe>
+<div class="iframe-container">
+  <iframe src="/assets/videos/SYNwall_site_demo.webm"> </iframe>
+</div>
 
 # How you can install it
 
