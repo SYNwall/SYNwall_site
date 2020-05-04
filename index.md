@@ -55,7 +55,7 @@ Now you are ready to load the module.
  
 ```bash
 
-# sudo insmod SYNwall.ko psk="123456789012345678901234567890123" precision=10 portk=12,13,14,15,16 load_delay=10000 enable_udp=1
+# sudo insmod SYNwall.ko psk=123456789012345678901234567890123 precision=10 portk=12,13,14,15,16 load_delay=10000 enable_udp=1
 
 ```
 In the future we plan to move it to other platforms (ESP8266?) and hardware.
