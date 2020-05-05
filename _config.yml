@@ -3,5 +3,9 @@ description: A zero-configuration (IoT) firewall
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+show_downloads: false
+show_gitter: true
 github:
-   repository_url: https://github.com/SYNwall/SYNwall
+  repository_url: https://github.com/SYNwall/SYNwall
+gitter:
+  gitter_url: https://gitter.im/SYNwall-random/community
