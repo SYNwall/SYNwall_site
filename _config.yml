@@ -5,7 +5,13 @@ google_analytics:
 theme: jekyll-theme-hacker
 show_downloads: false
 show_gitter: true
+show_cert: false
 github:
   repository_url: https://github.com/SYNwall/SYNwall
 gitter:
   gitter_url: https://gitter.im/SYNwall-random/community
+cert:
+  certification_url: ./scp.html
+webrick:
+  headers:
+    SYN-Auth-64: dGgxc18xc19teV9rZXlfdmVyeV8zYXN5X3QwX2d1ZXNz

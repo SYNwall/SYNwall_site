@@ -21,10 +21,13 @@
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
             <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
           {% endif %}
+          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
           {% if site.show_gitter %}
             <a href="{{ site.gitter.gitter_url }}" class="btn btn-gitter"><span class="icon"></span>Chat on Gitter</a>
           {% endif %}
-          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+          {% if site.show_cert %}
+            <a href="{{ site.cert.certification_url }}" class="btn btn-synwall"><span class="icon"></span>SYNwall Cert ;-)</a>
+          {% endif %}
         </section>
       </div>
     </header>
