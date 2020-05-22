@@ -45,7 +45,7 @@ Right now **SYNwall** is in the form of a Linux Kernel injectable module. So you
 ```bash
 # sudo apt-get install linux-headers-$(uname -r)
 # git clone https://github.com/SYNwall/SYNwall.git
-# cd synwall
+# cd SYNwall
 # make
 ```
 
