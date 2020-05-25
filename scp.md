@@ -26,3 +26,10 @@ Welcome to Dante's Inferno...welcome to Malebolge:
 D'`%qL8!ZZ:WzU6futQOOq;LmI*Z5E3DfAARx>__):[Zvotm3qSonmf,+ihgfeG]#aZ_X|\[T<RvVUT6LpJ2NMLKDhHGFED=<`#?8\<;:z81UTu32+0/(Lm%Ij(!~%|B/
 
 -->
+
+
+<!--
+
+Gosh...looks like netlify is cutting out headers...may be it's worth to check https://github.com/SYNwall/SYNwall_site
+
+-->
