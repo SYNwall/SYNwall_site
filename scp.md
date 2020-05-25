@@ -11,7 +11,7 @@ This is not really serious, but it's an easy challenge: somewhere on the Interne
 
 If you can download it, it means that you are a real SCP!
 
-But where you can find it? Hints are in this page...
+But where can you find it? Hints are in this page...
 
 In case of troubles, try to reach out on Gitter.
 
