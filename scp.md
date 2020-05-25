@@ -23,6 +23,6 @@ In case of troubles, try to reach out on Gitter.
 
 Welcome to Dante's Inferno...welcome to Malebolge:
 
-D'`_@^!\ZHYz2y05SQ?r*)M^mIk6iFDge#zca <REDACTED_TO BE ENABLED> +0/(Lml$)(!~De{z!x>_{zsrwvun4!
+D'`%qL8!ZZ:WzU6futQOOq;LmI*Z5E3DfAARx>__):[Zvotm3qSonmf,+ihgfeG]#aZ_X|\[T<RvVUT6LpJ2NMLKDhHGFED=<`#?8\<;:z81UTu32+0/(Lm%Ij(!~%|B/
 
 -->

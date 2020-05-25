@@ -5,7 +5,7 @@ google_analytics:
 theme: jekyll-theme-hacker
 show_downloads: false
 show_gitter: true
-show_cert: false
+show_cert: true
 github:
   repository_url: https://github.com/SYNwall/SYNwall
 gitter:
