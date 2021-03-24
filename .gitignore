@@ -4,3 +4,9 @@ _site
 .jekyll-metadata
 vendor
 index.md.work
+*.gem
+.bundle
+Gemfile.lock
+.DS_Store
+about.md
+_posts/*

@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
+# **SYNwall:** A different way to think firewalling
+
 <br>
 ![Logo](/assets/images/SYNwall-Logo_transp.png){: .center-image }
 
 <br>
 <br>
-
-# **SYNwall:** A different way to think firewalling
 
 **SYNwall** brings to you a total new way to approach firewalling: you don't have to worry anymore about rules, IP, ports, etc.
 A simple PSK will allow a low-maintenance firewall-like security.
@@ -58,7 +58,6 @@ Now you are ready to load the module.
 # sudo insmod SYNwall.ko psk=123456789012345678901234567890123 precision=10 portk=12,13,14,15,16 load_delay=10000 enable_udp=1
 
 ```
-In the future we plan to move it to other platforms (ESP8266?) and hardware.
 
 # More Info
 
@@ -69,4 +68,4 @@ In the future we plan to move it to other platforms (ESP8266?) and hardware.
 
 * * *
 
-<a href="https://www.sorint.it"><img src="/assets/images/SorintLab_spa.png" width="180"></a>
+<a href="https://www.sorint.it"><img src="/assets/images/SorintLab_spa_esecutivo_200dpi.png" width="180"></a>

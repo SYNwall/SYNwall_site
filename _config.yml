@@ -1,17 +1,23 @@
-title: SYNwall
-description: A zero-configuration (IoT) firewall
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-hacker
-show_downloads: false
-show_gitter: true
-show_cert: true
-github:
-  repository_url: https://github.com/SYNwall/SYNwall
-gitter:
-  gitter_url: https://gitter.im/SYNwall-random/community
-cert:
-  certification_url: ./scp.html
-webrick:
-  headers:
-    SYN-Auth-64: dGgxc18xc19teV9rZXlfdmVyeV8zYXN5X3QwX2d1ZXNz
+title: 
+author:
+  name: 
+  email: 
+
+show_excerpts: true # set to true to show excerpts on the homepage
+heading: 
+subheading: >
+  This is a subheading that allows for multi-line text.
+
+# Nord-theme date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+jekyll-nord-theme:
+  date_format: "%b %d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - about.md
+
+# Build settings
+theme: jekyll-nord-theme
+
