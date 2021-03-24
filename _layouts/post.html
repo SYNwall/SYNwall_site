@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="content-area">
+  <ul class="post-list">
+    {%- assign date_format = site.jekyll-nord-theme.date_format | default: "%b %-d, %Y" -%}
+    <li>
+      <span class="post-meta">{{ page.date | date: date_format }}</span>
+      <h3 class="post-title">{{ page.title | escape }}</h3>
+    </li>
+  </ul>
+
+  {{ content }}
+</div>
